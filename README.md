@@ -81,3 +81,5 @@ At last, I would like to thank our mentors and my team members for their support
 Source Code:- https://github.com/VaibhavTyagi010/1Mg-clone
 (Our GitHub Link)
 more details :-https://medium.com/@svijaym6/tata-1mg-clone-dfa982c9a2a7
+Deployment Link:- https://frolicking-unicorn-ddc4f6.netlify.app/
+             
